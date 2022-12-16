@@ -1,0 +1,17 @@
+{	
+    "music_disc.drip":{
+		"sounds":[
+			"jackpot:music_disc/drip"
+		]
+	},	
+    "music_disc.among":{
+		"sounds":[
+			"jackpot:music_disc/among"
+		]
+	},	
+    "music_disc.1up":{
+		"sounds":[
+			"jackpot:music_disc/1up"
+		]
+	}
+}

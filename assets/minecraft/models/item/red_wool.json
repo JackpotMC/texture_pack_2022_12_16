@@ -1,0 +1,107 @@
+{
+  "parent": "minecraft:block/red_wool",
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 10000
+      },
+      "model": "romantic_dinner:item/chocolate_box"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10001
+      },
+      "model": "romantic_dinner:item/valentine_letter"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10002
+      },
+      "model": "romantic_dinner:item/rose_and_letter"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10003
+      },
+      "model": "romantic_dinner:item/rose"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10004
+      },
+      "model": "romantic_dinner:item/table"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10005
+      },
+      "model": "romantic_dinner:item/table2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10006
+      },
+      "model": "romantic_dinner:item/table2_connector"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10007
+      },
+      "model": "romantic_dinner:item/table_roses"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10008
+      },
+      "model": "romantic_dinner:item/hanging_flowers"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10009
+      },
+      "model": "romantic_dinner:item/hanging_flowers2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10010
+      },
+      "model": "romantic_dinner:item/hanging_flowers3"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10011
+      },
+      "model": "romantic_dinner:item/teddy_bear"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10012
+      },
+      "model": "romantic_dinner:item/teddy_bear_heart"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10013
+      },
+      "model": "romantic_dinner:item/flowers"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10014
+      },
+      "model": "romantic_dinner:item/pillow"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10015
+      },
+      "model": "romantic_dinner:item/heart_box"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10016
+      },
+      "model": "minecraft:item/red_wool"
+    }
+  ]
+}
