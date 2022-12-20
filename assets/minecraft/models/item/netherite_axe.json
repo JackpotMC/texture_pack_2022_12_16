@@ -1,1 +1,0 @@
-{"parent":"minecraft:item/handheld","textures":{"layer0":"minecraft:item/netherite_axe"},"overrides":[{"predicate":{"custom_model_data":10000},"model":"jackpot:auto_generated/bloodaxe"},{"predicate":{"custom_model_data":10001},"model":"jackpot:auto_generated/rainbowaxe"},{"predicate":{"custom_model_data":10002},"model":"minecraft:item/netherite_axe"}]}

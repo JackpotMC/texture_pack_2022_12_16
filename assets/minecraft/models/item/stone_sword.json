@@ -1,1 +1,0 @@
-{"parent":"minecraft:item/handheld","textures":{"layer0":"minecraft:item/stone_sword"},"overrides":[{"predicate":{"custom_model_data":35000},"model":"christmas:christmas_skill_model/santa_staff"},{"predicate":{"custom_model_data":35001},"model":"minecraft:item/stone_sword"}]}
